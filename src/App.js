@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Create React App + Go API</h1>
+      <h1>I have launched this site with zeit!</h1>
       <h2>
         Deployed with{' '}
         <a
@@ -55,4 +55,3 @@ function App() {
 }
 
 export default App;
-// john
